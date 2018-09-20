@@ -1,0 +1,1 @@
+This is my first Django site. It is a simple poll system.
